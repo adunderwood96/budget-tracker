@@ -16,6 +16,8 @@
 an app to keep track of your personal budget. It can be updated offline/online.
 
 ## Demo
+
+https://tranquil-sea-41492.herokuapp.com/
 ![budget](https://github.com/adunderwood96/budget-tracker/blob/b50353f92580ec93c05d280139985a9f486774dd/assets/budget.png)
 
 
