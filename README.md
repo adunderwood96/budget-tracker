@@ -5,6 +5,7 @@
 - [Description](#Description)
 - [Demo](#Demo)
 - [Installation](#Installation)
+- [Technologies](#Technologies)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
 - [Test](#Tests)
@@ -25,6 +26,10 @@ https://tranquil-sea-41492.herokuapp.com/
 
 npm i
 
+
+## Technologies
+
+ HTML, CSS, JavaScript, PWA, NoSQL, Node, Express, Mongoose
 ## Usage
 
 Enter a transaction title, amount, and then add or subtract.
