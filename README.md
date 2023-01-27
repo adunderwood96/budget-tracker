@@ -35,7 +35,7 @@ Enter a transaction title, amount, and then add or subtract.
 
 ## Contributions
 
-### Click on the icons below to contact me!
+#### Click on the icons below to contact me!
 <a href="https://www.linkedin.com/in/apark8496/" target="_blank" rel="noopener noreferrer">
   <img
     alt="Linkedin"
