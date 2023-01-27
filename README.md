@@ -33,7 +33,11 @@ npm i
 
 Enter a transaction title, amount, and then add or subtract.
 
-## Contributions
+## License
+
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+## Contributions and questions
 
 #### Click on the icons below to contact me!
 <a href="https://www.linkedin.com/in/apark8496/" target="_blank" rel="noopener noreferrer">
@@ -49,16 +53,3 @@ Enter a transaction title, amount, and then add or subtract.
        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
        />
 </a>
-
-
-## License
-
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-## Questions
-
-If there are any further questions please feel free to contact me:
-
-Github: https://github/apark8496
-
-Email: apark8496@gmail.com
