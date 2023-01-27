@@ -14,11 +14,10 @@
 
 ## Description
 
-an app to keep track of your personal budget. It can be updated offline/online.
+An app that allows users to keep track of their personal budget, It can be updated offline/online.
 
 ## Demo
 
-https://tranquil-sea-41492.herokuapp.com/
 ![budget](https://github.com/adunderwood96/budget-tracker/blob/b50353f92580ec93c05d280139985a9f486774dd/assets/budget.png)
 
 
@@ -36,9 +35,21 @@ Enter a transaction title, amount, and then add or subtract.
 
 ## Contributions
 
-Contact me!
+### Click on the icons below to contact me!
+<a href="https://www.linkedin.com/in/apark8496/" target="_blank" rel="noopener noreferrer">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
 
-## Test
+<a href = "mailto: apark8496@gmail.com"> 
+  <img
+        alt="gmail"
+       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+       />
+</a>
+
 
 ## License
 
